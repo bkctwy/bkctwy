@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats-sand-theta-69.vercel.app/api?username=ZeroMapleQvQ)
-[![Top Langs](https://github-readme-stats-sand-theta-69.vercel.app/api/top-langs/?username=ZeroMapleQvQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sand-theta-69.vercel.app/api/top-langs/?username=ZeroMapleQvQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
