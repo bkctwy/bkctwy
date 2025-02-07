@@ -1,6 +1,9 @@
 name: Waka Readme
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
@@ -12,5 +15,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          LOCALE: zh
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
