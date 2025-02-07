@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          IGNORED_REPOS: "bkctwy.github.io, ILP-Docs, The-Bible-of-No.9-Middle-School-s-Deads, "
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROJECTS: "True"
           LOCALE: zh
