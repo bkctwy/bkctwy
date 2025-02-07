@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          SHOW_LINES_OF_CODE: "True"
           SHOW_PROJECTS: "True"
           LOCALE: zh
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
