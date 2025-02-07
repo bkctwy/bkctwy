@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ![Anurag's GitHub stats](https://grs.bkctwy.tech/api?username=bkctwy&theme=dracula&show_icons=true)
 
 
