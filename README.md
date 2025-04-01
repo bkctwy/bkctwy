@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 > 📦  使用了 88.6 kB GitHub 存储空间 
  > 
-> 🏆 158 个贡献，在 2025 年
- > 
 > 🚫 不开放招聘
  > 
 > 📜 26 个公共仓库 
@@ -98,7 +96,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bkctwy/bkctwy/main/assets/bar_graph.png)
 
 
- Last Updated on 2025-03-31 18:47:27 UTC
+ Last Updated on 2025-04-01 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 
