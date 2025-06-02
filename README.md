@@ -78,7 +78,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-![Anurag's GitHub stats](https://grs.bkctwy.tech/api?username=bkctwy&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://grs.bkctwy.tech/api?username=RhenCloud&theme=dracula&show_icons=true)
 
 
-[![Top Langs](https://grs.bkctwy.tech/api/top-langs/?username=bkctwy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://grs.bkctwy.tech/api/top-langs/?username=RhenCloud&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
