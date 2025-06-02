@@ -1,20 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ZeroMapleQvQ/ZeroMapleQvQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2058%20mins-blue)
 
@@ -82,12 +67,6 @@ TypeScript               3 repos             ████░░░░░░░�
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
-
-
-
-**时间线**
-
-![Lines of Code chart](https://raw.githubusercontent.com/bkctwy/bkctwy/main/assets/bar_graph.png)
 
 
  Last Updated on 2025-05-29 18:50:07 UTC
